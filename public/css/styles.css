@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Proxima-Nova-Condensed-Thin";
+  src: url(../fonts/Proxima-Nova-Condensed-Thin.otf);
+  font-weight: lighter;
+}
+@font-face {
+  font-family: "Proxima-Nova-Condensed-Regular";
+  src: url(../fonts/Proxima-Nova-Condensed-Regular.otf);
+  font-weight: normal;
+}
+@font-face {
+  font-family: "Proxima-Nova-Condensed-Black";
+  src: url(../fonts/Proxima-Nova-Condensed-Black.otf);
+  font-weight: bold;
+}
